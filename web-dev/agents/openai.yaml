@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Developer"
+  short_description: "Modern web and Next.js development"
+  default_prompt: "Use $web-dev to build, review, or debug a modern web application."

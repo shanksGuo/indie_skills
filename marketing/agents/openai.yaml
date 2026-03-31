@@ -1,0 +1,4 @@
+interface:
+  display_name: "Growth Marketing"
+  short_description: "Growth and monetization help for indie apps"
+  default_prompt: "Use $marketing to plan launch, positioning, pricing, or ASO work for an indie product."

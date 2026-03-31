@@ -1,0 +1,4 @@
+interface:
+  display_name: "iOS Developer"
+  short_description: "Senior iOS and SwiftUI development"
+  default_prompt: "Use $ios-dev to build, review, or debug a Swift and SwiftUI iOS app."

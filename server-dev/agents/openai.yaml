@@ -1,0 +1,4 @@
+interface:
+  display_name: "Server Developer"
+  short_description: "Backend, API, and Supabase guidance"
+  default_prompt: "Use $server-dev to design APIs, database schemas, or Supabase backend workflows."

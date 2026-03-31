@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Developer"
+  short_description: "Senior Flutter app development guidance"
+  default_prompt: "Use $flutter-dev to build, review, or debug a Dart and Flutter application."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Manager"
+  short_description: "Lean product strategy for indie developers"
+  default_prompt: "Use $pm to turn an idea into an MVP plan, PRD, or priority decision."

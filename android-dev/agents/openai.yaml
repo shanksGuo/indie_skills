@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Developer"
+  short_description: "Senior Android app development"
+  default_prompt: "Use $android-dev to build, review, or debug a Kotlin or Jetpack Compose Android app."

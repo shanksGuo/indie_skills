@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Engineer"
+  short_description: "Pragmatic testing and QA strategy"
+  default_prompt: "Use $qa to design tests, analyze bugs, or improve release quality."

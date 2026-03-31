@@ -1,0 +1,4 @@
+interface:
+  display_name: "Indie CEO Advisor"
+  short_description: "Strategic decision support for indie founders"
+  default_prompt: "Use $ceo to analyze a product, growth, or prioritization decision like an indie founder."

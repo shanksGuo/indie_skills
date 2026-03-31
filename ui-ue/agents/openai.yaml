@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI/UX Designer"
+  short_description: "Premium product interface design guidance"
+  default_prompt: "Use $ui-ue to improve product UI, UX flows, motion, and visual design quality."
